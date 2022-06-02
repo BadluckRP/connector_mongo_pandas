@@ -53,6 +53,9 @@ mongoDf = read_mongo(collection='transactionTest',
                      query=queryBuild,
                      no_id=True)
 
+
+mongoDf
+
 mongoDf
 
 """ 
